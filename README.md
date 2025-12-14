@@ -2,4 +2,4 @@
 
 ## To quickly see SELF's performance, please:
 1. Create a new environment with `conda env create -f self.yml`
-2. Run fingerprint/demo.ipynb
+2. Run `demo.ipynb`
